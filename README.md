@@ -64,25 +64,21 @@ Press Ctrl + C to stop the webcam feed.
 Gender: Female
 Age: 25–32 years
 
-![Girl1](output_girl1.png)
 
 > python detect.py --image kid1.jpg
 Gender: Male
 Age: 4–6 years
 
-![Kid1](output_kid1.png)
 
 > python detect.py --image man1.jpg
 Gender: Male
 Age: 38–43 years
 
-![Man1](output_man1.png)
 
 > python detect.py --image woman1.jpg
 Gender: Female
 Age: 38–43 years
 
-![Woman1](output_woman1.png)
 ```
 ---
 
